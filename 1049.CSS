@@ -1,4 +1,4 @@
-body{
+body {
     margin: 20px;
     background: #FFFFFF;
 }
@@ -30,68 +30,98 @@ body{
 .primeiro {
     width: 112px;
     height: 40px;
-    background-color: #08FF00;
+    background-color: #000000;
     color: #FFFFFF;
     padding: 5px 8px;
-    border: 1px solid #08FF00;
+    border: 1px solid #000000;
     border-radius: 4px;
     cursor: pointer;
     font-size: 15px;
     font: 100% Arial, sans-serif;
-    font-weight: bold;;
+    font-weight: bold;
+    ;
     transition: all .5s ease;
-    
+
 }
 
 .primeiro:hover {
     background-color: #FFFFFF;
-    color: #08FF00;
+    color: #000000;
 }
 
 .segundo {
     width: 105px;
     height: 40px;
-    background-color: #0015FF;
+    background-color: #000000;
     color: #FFFFFF;
     padding: 5px 8px;
-    border: 1px solid #0015FF;
+    border: 1px solid #000000;
     border-radius: 4px;
     cursor: pointer;
     font-size: 15px;
     font: 100% Arial, sans-serif;
     font-weight: bold;
     transition: all .5s ease;
-    
+
 }
 
 .segundo:hover {
     background-color: #FFFFFF;
-    color: #0015FF;
+    color: #000000;
 }
 
 .terceiro {
     width: 105px;
     height: 40px;
-    background-color: #FF0000;
+    background-color: #000000;
     color: #FFFFFF;
     padding: 5px 8px;
-    border: 1px solid #FF0000;
+    border: 1px solid #000000;
     border-radius: 4px;
     cursor: pointer;
     font-size: 15px;
     font: 100% Arial, sans-serif;
-    font-weight: bold;;
+    font-weight: bold;
+    ;
     transition: all .5s ease;
-    
+
 }
 
 .terceiro:hover {
     background-color: #FFFFFF;
-    color: #FF0000;
+    color: #000000;
 }
 
 .resultado {
-    margin: 2%;
+    margin: 1%;
+    width: 105px;
+    height: 40px;
     font: 100% Arial, sans-serif;
     font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #17FE00;
+    color: #FFFFFF;
+    padding: 5px 8px;
+    border: 1px solid #17FE00;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.resultado:hover {
+    background-color: #FFFFFF;
+    color: #17FE00;
+}
+
+.container {
+    width: 500px;
+    height: 35px;
+    font: 100% Arial, sans-serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }

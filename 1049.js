@@ -1,6 +1,8 @@
-document.querySelector('button')
-    .addEventListener('click', handleClick, false);
+function botao(valor) { // botões
+    var salvo = document.calc.visor.value;
+    document.calc.visor.value = salvo + valor;
+}
 
-function handleClick() {
-    
+function result() { // resultado
+
 }
