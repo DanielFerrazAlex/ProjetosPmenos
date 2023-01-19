@@ -1,8 +1,4 @@
-function botao(valor) { // botões
-    var salvo = document.calc.visor.value;
-    document.calc.visor.value = salvo + valor;
-}
-
-function result() { // resultado
-
+function insertText(elemID, text) {
+    var elem = document.getElementById(elemID);
+    elem.innerHTML += text;
 }

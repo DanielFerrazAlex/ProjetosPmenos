@@ -1,40 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="1049.css">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="1049.CSS">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animais</title>
+    <title>Document</title>
+    <script src="./1049.js"></script>
 </head>
-
 <body>
-
     <div class="primeira-divisao">
-        <button type="button" class="primeiro" value="1"> Vertebrado </button>
-        <button type="button" class="primeiro" value="2"> Invertebrado </button>
-    </div><br>
+    <input type="button" class="primeiro" value="Vertebrado" onclick="insertText('txt1', '1');" />
+    <input type="button" class="primeiro" value="Invertebrado" onclick="insertText('txt1', '2');" />
+    </div>
 
     <div class="segunda-divisao">
-        <button type="button" class="segundo" value="3"> Ave </button>
-        <button type="button" class="segundo" value="4"> Mamifero </button>
-        <button type="button" class="segundo" value="5"> Inseto </button>
-        <button type="button" class="segundo" value="6"> Anelideo </button>
-    </div><br>
+        <input type="button" class="segundo" value="Ave" onclick="insertText('txt1', '3');" />
+        <input type="button" class="segundo" value="Mamifero" onclick="insertText('txt1', '4');" />
+        <input type="button" class="segundo" value="Inseto" onclick="insertText('txt1', '5');" />
+        <input type="button" class="segundo" value="Anelideo" onclick="insertText('txt1', '6');" />
+    </div>
 
     <div class="terceira-divisao">
-        <button type="button" class="terceiro" value="7"> Carnivoro </button>
-        <button type="button" class="terceiro" value="8"> Onivoro </button>
-        <button type="button" class="terceiro" value="9"> herbivoro </button>
-        <button type="button" class="terceiro" value="10"> hematofago </button>
+        <input type="button" class="terceiro" value="Carnivoro" onclick="insertText('txt1', '7');" />
+        <input type="button" class="terceiro" value="Herbivoro" onclick="insertText('txt1', '8');" />
+        <input type="button" class="terceiro" value="Onivoro" onclick="insertText('txt1', '9');" />
+        <input type="button" class="terceiro" value="Hematofago" onclick="insertText('txt1', '10');" />
     </div>
 
     <div>
-        <input type="text" class="container" name="visor" />
-        <button type="button" class="resultado"> resultado </button>
+        <textarea id="txt1" class="container"> </textarea>
     </div>
-
 </body>
-
 </html>
