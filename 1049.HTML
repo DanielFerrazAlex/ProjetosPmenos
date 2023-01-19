@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,28 +9,35 @@
     <title>Document</title>
     <script src="./1049.js"></script>
 </head>
+
 <body>
+    <h1>Escolha as opções abaixo: </h1>
     <div class="primeira-divisao">
-    <input type="button" class="primeiro" value="Vertebrado" onclick="insertText('txt1', '1');" />
-    <input type="button" class="primeiro" value="Invertebrado" onclick="insertText('txt1', '2');" />
+        <input type="button" class="primeiro" value="Vertebrado" onclick="insertText('txt1', 'Vertebrado');" />
+        <input type="button" class="primeiro" value="Invertebrado" onclick="insertText('txt1', 'Invertebrado');" />
     </div>
 
     <div class="segunda-divisao">
-        <input type="button" class="segundo" value="Ave" onclick="insertText('txt1', '3');" />
-        <input type="button" class="segundo" value="Mamifero" onclick="insertText('txt1', '4');" />
-        <input type="button" class="segundo" value="Inseto" onclick="insertText('txt1', '5');" />
-        <input type="button" class="segundo" value="Anelideo" onclick="insertText('txt1', '6');" />
+        <input type="button" class="segundo" value="Ave" onclick="insertText('txt2', 'Ave');" />
+        <input type="button" class="segundo" value="Mamifero" onclick="insertText('txt2', 'Mamifero');" />
+        <input type="button" class="segundo" value="Inseto" onclick="insertText('txt2', 'Inseto');" />
+        <input type="button" class="segundo" value="Anelideo" onclick="insertText('txt2', 'Anelideo');" />
     </div>
 
     <div class="terceira-divisao">
-        <input type="button" class="terceiro" value="Carnivoro" onclick="insertText('txt1', '7');" />
-        <input type="button" class="terceiro" value="Herbivoro" onclick="insertText('txt1', '8');" />
-        <input type="button" class="terceiro" value="Onivoro" onclick="insertText('txt1', '9');" />
-        <input type="button" class="terceiro" value="Hematofago" onclick="insertText('txt1', '10');" />
+        <input type="button" class="terceiro" value="Carnivoro" onclick="insertText('txt3', 'Carnivoro');" />
+        <input type="button" class="terceiro" value="Herbivoro" onclick="insertText('txt3', 'Herbivoro');" />
+        <input type="button" class="terceiro" value="Onivoro" onclick="insertText('txt3', 'Onivoro');" />
+        <input type="button" class="terceiro" value="Hematofago" onclick="insertText('txt3', 'Hematofago');" />
     </div>
 
-    <div>
+    <div class="quarta-divisao">
         <textarea id="txt1" class="container"> </textarea>
+        <textarea id="txt2" class="container"> </textarea>
+        <textarea id="txt3" class="container"> </textarea>
+        <label> Você Escolheu: </label>
+        <textarea id="result" class="container"> </textarea>
     </div>
 </body>
+
 </html>

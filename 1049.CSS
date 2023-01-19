@@ -4,7 +4,7 @@ body {
 }
 
 .primeira-divisao {
-    height: 75px;
+    height: 50px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -12,7 +12,7 @@ body {
 }
 
 .segunda-divisao {
-    height: 220px;
+    height: 185px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -20,10 +20,17 @@ body {
 }
 
 .terceira-divisao {
-    height: 220px;
+    height: 187px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    align-items: center;
+}
+
+.quarta-divisao {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
     align-items: center;
 }
 
@@ -48,6 +55,13 @@ body {
 .primeiro:hover {
     background-color: #FFFFFF;
     color: #000000;
+}
+
+.button:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    background-color: #FFFFFF;
 }
 
 .segundo {
@@ -118,11 +132,10 @@ body {
 }
 
 .container {
-    width: 500px;
-    height: 35px;
+    width: 220px;
+    height: 20px;
+    border: 1px none;
+    border-radius: 4px;
     font: 100% Arial, sans-serif;
     font-weight: bold;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
 }
