@@ -1,0 +1,14 @@
+.botao {
+    color: #0054B0;
+    border: transparent;
+    background-color: transparent;
+    cursor: pointer;
+    font: 120% cursive;
+}
+
+.botao:hover {
+    border: transparent;
+    background-color: transparent;
+    font-size: 150%;
+    font-weight: bold;
+}

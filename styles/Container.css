@@ -1,0 +1,20 @@
+.container1 {
+    display: flex;
+   justify-content: space-evenly;
+
+}
+
+.container2 {
+    height: 250px;
+
+}
+
+.container3 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container4 {
+    background-color: #4D4D4E;
+    border-radius: 10px;
+}
