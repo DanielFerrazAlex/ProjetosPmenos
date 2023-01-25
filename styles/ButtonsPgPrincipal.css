@@ -1,5 +1,5 @@
 .botao {
-    color: #0054B0;
+    color: #090086;
     border: transparent;
     background-color: transparent;
     cursor: pointer;
@@ -9,6 +9,5 @@
 .botao:hover {
     border: transparent;
     background-color: transparent;
-    font-size: 150%;
     font-weight: bold;
 }

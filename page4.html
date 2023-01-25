@@ -4,38 +4,41 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="styles/Container.css">
+    <link rel="icon" type="image/x-icon" href="img/favicon-32x32.png">
+    <link rel="stylesheet" type="text/css" href="styles/PatternContainer.css">
     <link rel="stylesheet" type="text/css" href="styles/Colors.css">
     <link rel="stylesheet" type="text/css" href="styles/ButtonsPgPrincipal.css">
     <link rel="stylesheet" type="text/css" href="styles/ClickableImages.css">
     <link rel="stylesheet" type="text/css" href="styles/DarkMode.css">
+    <link rel="stylesheet" type="text/css" href="styles/ContainersPage4.css">
     <title>Site 4</title>
 </head>
 <script src="src/DarkMode.js"></script>
 <body>
-
     <div class="container1">
         <input type="button" onclick="location.href='http://127.0.0.1:5500/Page1.html'" class="botao" value="Home">
         <input type="button" onclick="location.href='http://127.0.0.1:5500/Page2.html'" class="botao" value="Products">
         <input type="button" onclick="location.href='http://127.0.0.1:5500/Page3.html'" class="botao" value="Icone3">
-        <input type="button" onclick="location.href='http://127.0.0.1:5500/Page4.html'" class="botao" value="Contacts">
-        
-        <div class="container3">
-            <img onclick="darkMode()" class="image" width="50" height="50" src="img/dark.png">
-        </div>
+        <input type="button" onclick="location.href='http://127.0.0.1:5500/Page4.html'" class="botao" value="Contacts Us">
+        <button onclick="darkMode()" class="botao" id="toggle">Dark Mode</button>
     </div>
-
     <div class="container4">
         <br>
     </div>
-
     <div class="container2">
-        <h1 class="cor-preto">DIV 1</h1>
-        <p class="cor-preto">Teste essa é a pagina 4</p>
+        <h1>DIV 1</h1>
+        <p>Teste essa é a pagina 4</p>
     </div>
-
     <div>
-        <h1 class="cor-preto">DIV 2</h1>
+        <h1>Our location:</h1>
+        <div id="mapa"></div>
+        <script src="src/InsertMap.js"></script>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=CHAVE AQUI"></script>
+    </div>
+    <div class="container-icons">
+        <img src="/img/Instagram.png" width="45px" height="45px" onclick="location.href='https://www.instagram.com/'">
+        <img src="/img/GitHub.png" hspace="5"  width="45px" height="45px" onclick="location.href='https://github.com/DanielFerrazAlex/ProjetosPmenos/tree/LandingPage'">
+        <img src="/img/Facebook.png"  width="45px" height="45px" onclick="location.href='https://pt-br.facebook.com/'">
     </div>
 </body>
 </html>
