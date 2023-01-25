@@ -26,11 +26,24 @@
         <br>
     </div>
     <div class="container2">
-        <h1>DIV 1</h1>
-        <p>Teste essa é a pagina 4</p>
+        <h1>Send a message to our email by filling out the form below:</h1>
+        <form action=" " method="get">
+            <div>
+                <label for="GET-name">Name:</label><br>
+                <input class="container-textbox1" type="text" name="nome" id="nome" placeholder="Your Name"><br>
+            </div>
+            <div>
+                <label for="GET-name">E-mail: </label><br>
+                <input class="container-textbox1" type="text" name="email" id="email" placeholder="E-mail">
+            </div>
+            <div>
+                <label for="GET-name">Message: </label><br>
+                <input class="container-textbox2" type="text" name="menssagem" id="menssagem" placeholder="Write Menssage">
+            </div>
+        </form>
     </div>
     <div>
-        <h1>Our location:</h1>
+        <h1>Localization:</h1>
         <div id="mapa"></div>
         <script src="src/InsertMap.js"></script>
         <script async defer src="https://maps.googleapis.com/maps/api/js?key=CHAVE AQUI"></script>
