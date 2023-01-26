@@ -4,11 +4,6 @@
 
 }
 
-.container2 {
-    height: 300px;
-
-}
-
 .container3 {
     display: flex;
     justify-content: flex-end;
