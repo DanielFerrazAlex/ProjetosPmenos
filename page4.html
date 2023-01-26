@@ -25,39 +25,29 @@
     <div class="container4">
         <br>
     </div>
-    <div class="container2">
+    <div>
         <h1>Send a message to our email by filling out the form below:</h1>
         <form action=" " method="get">
             <div class="container-box1">
                 <label for="GET-name">Name:</label>
                 <input class="container-textbox1" type="text" name="nome" id="nome" placeholder="Your Name"><br>
-            </div>
-            <div class="container-box1">
                 <label for="GET-name">E-mail: </label>
                 <input class="container-textbox1" type="text" name="email" id="email" placeholder="E-mail">
-            </div>
-            <div class="container-box1">
                 <label for="GET-name">Message: </label>
                 <input class="container-textbox2" type="text" name="menssagem" id="menssagem" placeholder="Write Menssage">
             </div>
         </form>
     </div>
+    <h1>Localization:</h1>
+    <div class="comporter-mapa"><map id="mapa">mapa</map></div>
+    <script src="src/InsertMap.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=CHAVE AQUI"></script>
     <div>
-        <h1>Localization:</h1>
-        <div id="mapa"></div>
-        <script src="src/InsertMap.js"></script>
-        <script async defer src="https://maps.googleapis.com/maps/api/js?key=CHAVE AQUI"></script>
-    </div>
-    <div class="container-box3">
-        <div class="container-icon1">
-            <img src="/img/Instagram.png"  width="45px" height"45px" onclick="location.href='https://www.instagram.com/'">
-        </div>
-        <div class="container-icon2">
-            <img src="/img/GitHub.png"  width="45px" height"45px" onclick="location.href='https://github.com/DanielFerrazAlex/ProjetosPmenos/tree/LandingPage'">
-        </div>
-        <div class="container-icon3">
-            <img src="/img/Facebook.png"  width="45px" height"45px" onclick="location.href='https://pt-br.facebook.com/'">
-        </div>
+        <ul class="container-icon">
+            <img src="/img/Instagram.png" hspace="3"  width="45px" height="45px" onclick="location.href='https://www.instagram.com/'">
+            <img src="/img/GitHub.png" width="45px" height="45px" onclick="location.href='https://github.com/DanielFerrazAlex/ProjetosPmenos/tree/LandingPage'">
+            <img src="/img/Facebook.png" hspace="3" width="45px" height="45px" onclick="location.href='https://pt-br.facebook.com/'">
+        </ul>
     </div>
 </body>
 </html>
