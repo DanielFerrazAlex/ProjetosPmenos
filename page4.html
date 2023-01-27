@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/x-icon" href="img/favicon-32x32.png">
     <link rel="stylesheet" type="text/css" href="styles/PatternContainer.css">
-    <link rel="stylesheet" type="text/css" href="styles/Colors.css">
     <link rel="stylesheet" type="text/css" href="styles/ButtonsPgPrincipal.css">
     <link rel="stylesheet" type="text/css" href="styles/ClickableImages.css">
     <link rel="stylesheet" type="text/css" href="styles/DarkMode.css">
@@ -14,18 +14,21 @@
     <title>Site 4</title>
 </head>
 <script src="src/DarkMode.js"></script>
+
 <body>
     <div class="container1">
         <input type="button" onclick="location.href='http://127.0.0.1:5500/Page1.html'" class="botao" value="Home">
         <input type="button" onclick="location.href='http://127.0.0.1:5500/Page2.html'" class="botao" value="Products">
         <input type="button" onclick="location.href='http://127.0.0.1:5500/Page3.html'" class="botao" value="Icone3">
-        <input type="button" onclick="location.href='http://127.0.0.1:5500/Page4.html'" class="botao" value="Contacts Us">
+        <input type="button" onclick="location.href='http://127.0.0.1:5500/Page4.html'" class="botao"
+            value="Contacts Us">
         <button onclick="darkMode()" class="botao" id="toggle">Dark Mode</button>
     </div>
     <div class="container4">
         <br>
     </div>
     <div>
+<<<<<<< HEAD
         <h1>Send a message to our email by filling out the form below:</h1>
         <form action=" " method="get">
             <div class="container-box1">
@@ -47,6 +50,30 @@
             <img src="/img/Instagram.png" hspace="3"  width="45px" height="45px" onclick="location.href='https://www.instagram.com/'">
             <img src="/img/GitHub.png" width="45px" height="45px" onclick="location.href='https://github.com/DanielFerrazAlex/ProjetosPmenos/tree/LandingPage'">
             <img src="/img/Facebook.png" hspace="3" width="45px" height="45px" onclick="location.href='https://pt-br.facebook.com/'">
+=======
+        <h2>Send a message to our email by filling out the form below:</h2>
+        <form action="mailto:danielferrazalex@hotmail.com" method="get" class="container-box" enctype="text/plain">
+            <label for="GET-name">Name:</label>
+            <input class="container-textbox1" type="text" id="name" name="name" placeholder="Your Name"><br>
+            <label for="GET-name">E-mail: </label>
+            <input class="container-textbox1" type="text" id="email" name="email" id="email" placeholder="E-mail"><br>
+            <label for="GET-name">Message: </label>
+            <textarea font="" name="comments" class="container-textbox2" placeholder="Send your comments to us."></textarea><br>
+            <input type="submit" name="submit" value="Send Email" class="botao-email">
+            <input type="reset" name="reset" class="botao-email" value="Clear">
+        </form>
+    </div>
+    <h2>Localization:</h2>
+    <div class="comporter-mapa"><map id="mapa"></map></div>
+    <script src="src/InsertMap.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=CHAVE AQUI"></script>
+    <div>
+        <h2>Others Contacts:</h2>
+        <ul class="container-icon">
+            <img src="/img/Instagram.png" hspace="2" width="45px" height="45px" onclick="location.href='https://www.instagram.com/'">
+            <img src="/img/GitHub.png" width="45px" height="45px" onclick="location.href='https://github.com/DanielFerrazAlex/ProjetosPmenos/tree/LandingPage'">
+            <img src="/img/Facebook.png" hspace="2" width="45px" height="45px" onclick="location.href='https://pt-br.facebook.com/'">
+>>>>>>> 8ac4908 (modify on body, removed link(colors.css) and modify on container-box)
         </ul>
     </div>
 </body>
