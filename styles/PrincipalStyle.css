@@ -1,0 +1,56 @@
+body, html {
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: #484747;
+}
+
+.imagem {
+    width: 150px;
+    heigth: 200px;
+}
+
+.central {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 350px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #B2A9A9;
+    box-shadow: 5px 10px 5px #000000;
+}
+
+h1 {
+    text-align: center;
+}
+
+.textarea {
+    border-radius: 6px;
+}
+
+.div-btn {
+    display: grid;
+    justify-content: end;
+}
+
+.btn {
+    border: 1px solid #000000;
+    background-color: #D4CACA;
+    font-size: 100%;
+    cursor: pointer;
+
+}
+
+.btn:hover {
+    border: 1px solid #000000;
+    background-color: #E33D3D;
+}
