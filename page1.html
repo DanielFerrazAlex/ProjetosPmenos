@@ -10,7 +10,7 @@
     <link rel="manifest" href="/site.webmanifest">
     <title>Urna</title>
 </head>
-<script src="src/js/validateCPF.js"></script>
+
 <body>
     <main class="central">
         <div class="container">
@@ -24,14 +24,16 @@
                 </section>
                 <section><br>
                     <label for="Complete_Name">CPF: </label><br>
-                    <input  required class="textarea" type="text" placeholder="XXX.XXX.XXX-XX"><br>
+                    <input  required id="cpf" class="textarea" type="text" placeholder="XXX.XXX.XXX-XX"><br>
                 </section>
                 <section  class="div-btn"><br>
-                    <button class="btn" onclick="">Entrar</button>
+                    <input type="button" id="campo_cpf" class="btn" value="Entrar">
                 </section>
             </form>
         </div>
     </main>
+
+    <script src="src/js/validateCPF.js"></script>
 </body>
 </html>
 
