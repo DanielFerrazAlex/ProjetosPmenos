@@ -1,0 +1,1 @@
+branch for the exclusive use of developing a voting machine with HTML, JavaScript and the API will be used C#

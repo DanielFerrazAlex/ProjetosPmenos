@@ -1,0 +1,15 @@
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\obj\Debug\net6.0\SistemaEmpresa.csproj.AssemblyReference.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\obj\Debug\net6.0\SistemaEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\obj\Debug\net6.0\SistemaEmpresa.AssemblyInfoInputs.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\obj\Debug\net6.0\SistemaEmpresa.AssemblyInfo.cs
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\obj\Debug\net6.0\SistemaEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\bin\Debug\net6.0\SistemaEmpresa.exe
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\bin\Debug\net6.0\SistemaEmpresa.deps.json
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\bin\Debug\net6.0\SistemaEmpresa.runtimeconfig.json
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\bin\Debug\net6.0\SistemaEmpresa.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\bin\Debug\net6.0\SistemaEmpresa.pdb
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\obj\Debug\net6.0\SistemaEmpresa.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\obj\Debug\net6.0\refint\SistemaEmpresa.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\obj\Debug\net6.0\SistemaEmpresa.pdb
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\obj\Debug\net6.0\SistemaEmpresa.genruntimeconfig.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\SistemaEmpresa\SistemaEmpresa\obj\Debug\net6.0\ref\SistemaEmpresa.dll

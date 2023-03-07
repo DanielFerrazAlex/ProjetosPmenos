@@ -1,0 +1,15 @@
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\bin\Debug\net6.0\testes.exe
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\bin\Debug\net6.0\testes.deps.json
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\bin\Debug\net6.0\testes.runtimeconfig.json
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\bin\Debug\net6.0\testes.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\bin\Debug\net6.0\testes.pdb
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\obj\Debug\net6.0\testes.csproj.AssemblyReference.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\obj\Debug\net6.0\testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\obj\Debug\net6.0\testes.AssemblyInfoInputs.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\obj\Debug\net6.0\testes.AssemblyInfo.cs
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\obj\Debug\net6.0\testes.csproj.CoreCompileInputs.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\obj\Debug\net6.0\testes.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\obj\Debug\net6.0\refint\testes.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\obj\Debug\net6.0\testes.pdb
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\obj\Debug\net6.0\testes.genruntimeconfig.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\testes\testes\obj\Debug\net6.0\ref\testes.dll

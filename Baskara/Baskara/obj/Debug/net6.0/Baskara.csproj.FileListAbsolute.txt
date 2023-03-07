@@ -1,0 +1,15 @@
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\bin\Debug\net6.0\Baskara.exe
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\bin\Debug\net6.0\Baskara.deps.json
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\bin\Debug\net6.0\Baskara.runtimeconfig.json
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\bin\Debug\net6.0\Baskara.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\bin\Debug\net6.0\Baskara.pdb
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\obj\Debug\net6.0\Baskara.csproj.AssemblyReference.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\obj\Debug\net6.0\Baskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\obj\Debug\net6.0\Baskara.AssemblyInfoInputs.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\obj\Debug\net6.0\Baskara.AssemblyInfo.cs
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\obj\Debug\net6.0\Baskara.csproj.CoreCompileInputs.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\obj\Debug\net6.0\Baskara.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\obj\Debug\net6.0\refint\Baskara.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\obj\Debug\net6.0\Baskara.pdb
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\obj\Debug\net6.0\Baskara.genruntimeconfig.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\Baskara\Baskara\obj\Debug\net6.0\ref\Baskara.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Harmonic Number/1.0.0": {
+        "runtime": {
+          "Harmonic Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Harmonic Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

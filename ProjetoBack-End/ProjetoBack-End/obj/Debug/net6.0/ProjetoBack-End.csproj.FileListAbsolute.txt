@@ -1,0 +1,15 @@
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\bin\Debug\net6.0\ProjetoBack-End.exe
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\bin\Debug\net6.0\ProjetoBack-End.deps.json
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\bin\Debug\net6.0\ProjetoBack-End.runtimeconfig.json
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\bin\Debug\net6.0\ProjetoBack-End.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\bin\Debug\net6.0\ProjetoBack-End.pdb
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\obj\Debug\net6.0\ProjetoBack-End.csproj.AssemblyReference.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\obj\Debug\net6.0\ProjetoBack-End.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\obj\Debug\net6.0\ProjetoBack-End.AssemblyInfoInputs.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\obj\Debug\net6.0\ProjetoBack-End.AssemblyInfo.cs
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\obj\Debug\net6.0\ProjetoBack-End.csproj.CoreCompileInputs.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\obj\Debug\net6.0\ProjetoBack-End.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\obj\Debug\net6.0\refint\ProjetoBack-End.dll
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\obj\Debug\net6.0\ProjetoBack-End.pdb
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\obj\Debug\net6.0\ProjetoBack-End.genruntimeconfig.cache
+C:\Users\125430\Desktop\Ambiente Virtual\Testes\C#\ProjetoBack-End\ProjetoBack-End\obj\Debug\net6.0\ref\ProjetoBack-End.dll

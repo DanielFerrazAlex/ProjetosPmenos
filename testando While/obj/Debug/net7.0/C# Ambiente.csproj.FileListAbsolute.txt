@@ -1,0 +1,30 @@
+C:\Users\125430\Desktop\C# Ambiente\obj\Debug\net7.0\C# Ambiente.csproj.AssemblyReference.cache
+C:\Users\125430\Desktop\C# Ambiente\obj\Debug\net7.0\C# Ambiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125430\Desktop\C# Ambiente\obj\Debug\net7.0\C# Ambiente.AssemblyInfoInputs.cache
+C:\Users\125430\Desktop\C# Ambiente\obj\Debug\net7.0\C# Ambiente.AssemblyInfo.cs
+C:\Users\125430\Desktop\C# Ambiente\obj\Debug\net7.0\C# Ambiente.csproj.CoreCompileInputs.cache
+C:\Users\125430\Desktop\C# Ambiente\bin\Debug\net7.0\C# Ambiente.exe
+C:\Users\125430\Desktop\C# Ambiente\bin\Debug\net7.0\C# Ambiente.deps.json
+C:\Users\125430\Desktop\C# Ambiente\bin\Debug\net7.0\C# Ambiente.runtimeconfig.json
+C:\Users\125430\Desktop\C# Ambiente\bin\Debug\net7.0\C# Ambiente.dll
+C:\Users\125430\Desktop\C# Ambiente\bin\Debug\net7.0\C# Ambiente.pdb
+C:\Users\125430\Desktop\C# Ambiente\obj\Debug\net7.0\C# Ambiente.dll
+C:\Users\125430\Desktop\C# Ambiente\obj\Debug\net7.0\refint\C# Ambiente.dll
+C:\Users\125430\Desktop\C# Ambiente\obj\Debug\net7.0\C# Ambiente.pdb
+C:\Users\125430\Desktop\C# Ambiente\obj\Debug\net7.0\C# Ambiente.genruntimeconfig.cache
+C:\Users\125430\Desktop\C# Ambiente\obj\Debug\net7.0\ref\C# Ambiente.dll
+C:\Users\125430\Desktop\C# Ambiente\teste 1\bin\Debug\net7.0\C# Ambiente.exe
+C:\Users\125430\Desktop\C# Ambiente\teste 1\bin\Debug\net7.0\C# Ambiente.deps.json
+C:\Users\125430\Desktop\C# Ambiente\teste 1\bin\Debug\net7.0\C# Ambiente.runtimeconfig.json
+C:\Users\125430\Desktop\C# Ambiente\teste 1\bin\Debug\net7.0\C# Ambiente.dll
+C:\Users\125430\Desktop\C# Ambiente\teste 1\bin\Debug\net7.0\C# Ambiente.pdb
+C:\Users\125430\Desktop\C# Ambiente\teste 1\obj\Debug\net7.0\C# Ambiente.csproj.AssemblyReference.cache
+C:\Users\125430\Desktop\C# Ambiente\teste 1\obj\Debug\net7.0\C# Ambiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125430\Desktop\C# Ambiente\teste 1\obj\Debug\net7.0\C# Ambiente.AssemblyInfoInputs.cache
+C:\Users\125430\Desktop\C# Ambiente\teste 1\obj\Debug\net7.0\C# Ambiente.AssemblyInfo.cs
+C:\Users\125430\Desktop\C# Ambiente\teste 1\obj\Debug\net7.0\C# Ambiente.csproj.CoreCompileInputs.cache
+C:\Users\125430\Desktop\C# Ambiente\teste 1\obj\Debug\net7.0\C# Ambiente.dll
+C:\Users\125430\Desktop\C# Ambiente\teste 1\obj\Debug\net7.0\refint\C# Ambiente.dll
+C:\Users\125430\Desktop\C# Ambiente\teste 1\obj\Debug\net7.0\C# Ambiente.pdb
+C:\Users\125430\Desktop\C# Ambiente\teste 1\obj\Debug\net7.0\C# Ambiente.genruntimeconfig.cache
+C:\Users\125430\Desktop\C# Ambiente\teste 1\obj\Debug\net7.0\ref\C# Ambiente.dll
