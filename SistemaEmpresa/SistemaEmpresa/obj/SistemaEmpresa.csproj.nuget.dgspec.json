@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\125430\\Desktop\\Ambiente Virtual\\Testes\\C#\\SistemaEmpresa\\SistemaEmpresa\\SistemaEmpresa.csproj": {}
+    "C:\\Users\\125430\\Desktop\\Ambiente Virtual\\Nova pasta\\Testes\\C#\\SistemaEmpresa\\SistemaEmpresa\\SistemaEmpresa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\125430\\Desktop\\Ambiente Virtual\\Testes\\C#\\SistemaEmpresa\\SistemaEmpresa\\SistemaEmpresa.csproj": {
+    "C:\\Users\\125430\\Desktop\\Ambiente Virtual\\Nova pasta\\Testes\\C#\\SistemaEmpresa\\SistemaEmpresa\\SistemaEmpresa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\125430\\Desktop\\Ambiente Virtual\\Testes\\C#\\SistemaEmpresa\\SistemaEmpresa\\SistemaEmpresa.csproj",
+        "projectUniqueName": "C:\\Users\\125430\\Desktop\\Ambiente Virtual\\Nova pasta\\Testes\\C#\\SistemaEmpresa\\SistemaEmpresa\\SistemaEmpresa.csproj",
         "projectName": "SistemaEmpresa",
-        "projectPath": "C:\\Users\\125430\\Desktop\\Ambiente Virtual\\Testes\\C#\\SistemaEmpresa\\SistemaEmpresa\\SistemaEmpresa.csproj",
+        "projectPath": "C:\\Users\\125430\\Desktop\\Ambiente Virtual\\Nova pasta\\Testes\\C#\\SistemaEmpresa\\SistemaEmpresa\\SistemaEmpresa.csproj",
         "packagesPath": "C:\\Users\\125430\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\125430\\Desktop\\Ambiente Virtual\\Testes\\C#\\SistemaEmpresa\\SistemaEmpresa\\obj\\",
+        "outputPath": "C:\\Users\\125430\\Desktop\\Ambiente Virtual\\Nova pasta\\Testes\\C#\\SistemaEmpresa\\SistemaEmpresa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\125430\\AppData\\Roaming\\NuGet\\NuGet.Config",
